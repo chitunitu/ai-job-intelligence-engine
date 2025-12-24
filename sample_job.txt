@@ -1,0 +1,3 @@
+We are looking for a Python developer to automate internal workflows.
+The role involves data handling, API integrations, and building small tools.
+Experience with automation and clean coding practices is preferred.

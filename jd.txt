@@ -1,0 +1,11 @@
+Hindi transcription project.
+
+Requirements:
+Speaker diarization (who spoke when)
+Overlapping speech handling
+Verbatim and clean transcription
+Noisy audio correction
+High accuracy and consistency
+Slack communication
+
+Goal: production-ready transcripts.
